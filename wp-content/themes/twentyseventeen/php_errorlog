@@ -1,0 +1,32 @@
+[13-Jun-2018 00:27:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[25-Jul-2018 16:44:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[25-Jul-2018 16:44:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[01-Aug-2018 04:44:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[01-Aug-2018 04:44:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Aug-2018 01:33:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[29-Aug-2018 01:58:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[08-Sep-2018 05:28:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/twentyseventeen/404.php on line 13

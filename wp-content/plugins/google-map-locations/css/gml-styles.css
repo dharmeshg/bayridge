@@ -1,0 +1,4 @@
+table .create_trainer input{height:26px; width:260px;}
+.crInput{height:32px; width:290px;}
+.trainerInputError{border: solid #FF0000 2px !important; text-shadow:#FF0000;}
+.my_input{height:32px; width:300px;} 

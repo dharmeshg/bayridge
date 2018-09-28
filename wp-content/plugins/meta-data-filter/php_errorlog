@@ -1,0 +1,8 @@
+[22-Jun-2018 01:08:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[26-Jun-2018 17:12:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10

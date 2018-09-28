@@ -1,0 +1,3745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sanabel\n"
+"POT-Creation-Date: 2015-04-07 19:21+0200\n"
+"PO-Revision-Date: 2015-04-07 19:21+0200\n"
+"Last-Translator: Ahmad Abou Hashem <abouhashem.ahmad@gmail.com>\n"
+"Language-Team: Ahmad\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../framework/shortcodes/assets\n"
+
+#: ../404.php:7
+msgid "404 ERROR"
+msgstr ""
+
+#: ../404.php:7
+msgid "No thing found"
+msgstr ""
+
+#: ../404.php:21
+msgid "Not found"
+msgstr ""
+
+#: ../404.php:26
+msgid "404"
+msgstr ""
+
+#: ../404.php:29 ../content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:679
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../archive.php:10
+msgid "Daily Archives: "
+msgstr ""
+
+#: ../archive.php:12 ../archive.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:13
+msgid "Monthly Archives: "
+msgstr ""
+
+#: ../archive.php:15 ../archive.php:110
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:16
+msgid "Yearly Archives: "
+msgstr ""
+
+#: ../archive.php:18 ../archive.php:19 ../archive.php:112
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:106
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:108
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:110
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../author.php:14 ../author.php:96
+msgid "All posts by: "
+msgstr ""
+
+#: ../category.php:9
+msgid "Category Archives: "
+msgstr ""
+
+#: ../category.php:92
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:10
+msgid "Pingback: "
+msgstr ""
+
+#: ../comments.php:10
+msgid "Edit"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: ../comments.php:44
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:63 ../comments.php:77
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:64 ../comments.php:78
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:65 ../comments.php:79
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:108
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:109
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:110
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:112
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:113
+#, php-format
+msgid ""
+"Logged in as <a class=\"logged_in_name\" href=\"%1$s\">%2$s</a>. <a href="
+"\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:114
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../content-none.php:12
+msgid "Sorry, Nothing Found"
+msgstr ""
+
+#: ../content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-page.php:57 ../content.php:109
+#: ../page-templates/woocommerce.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-page.php:58 ../content.php:110
+#: ../page-templates/woocommerce.php:40
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:89
+msgid "Go to post"
+msgstr ""
+
+#: ../content.php:150
+msgid "Next Post"
+msgstr ""
+
+#: ../content.php:154
+msgid "Previous Post"
+msgstr ""
+
+#: ../extend-vc.php:55 ../framework/shortcodes/inc/data.php:70
+#: ../framework/shortcodes/inc/data.php:97
+#: ../framework/shortcodes/inc/data.php:215
+#: ../framework/shortcodes/inc/data.php:249
+#: ../framework/shortcodes/inc/data.php:433
+#: ../framework/shortcodes/inc/data.php:444
+#: ../framework/shortcodes/inc/data.php:684
+#: ../framework/shortcodes/inc/data.php:835
+#: ../framework/shortcodes/inc/data.php:1044
+#: ../framework/shortcodes/inc/data.php:1298
+#: ../framework/shortcodes/inc/data.php:1596
+#: ../framework/shortcodes/inc/data.php:1810
+#: ../framework/shortcodes/inc/data.php:1820
+#: ../framework/shortcodes/inc/data.php:1902
+#: ../framework/shortcodes/inc/data.php:1939
+#: ../framework/shortcodes/inc/data.php:1985
+#: ../framework/shortcodes/inc/data.php:2463
+#: ../framework/shortcodes/inc/data.php:2508
+#: ../framework/shortcodes/inc/data.php:2570
+#: ../framework/shortcodes/inc/data.php:2652
+#: ../framework/shortcodes/inc/data.php:2704
+#: ../framework/shortcodes/inc/data.php:2714
+#: ../framework/shortcodes/inc/generator-views.php:45
+msgid "No"
+msgstr ""
+
+#: ../extend-vc.php:110
+msgid ""
+"The speed of parallax compared to page scroll speed, should be ny value from "
+"0 to 2"
+msgstr ""
+
+#: ../extend-vc.php:120
+msgid "The top margin of the image when the image hits the top of browser"
+msgstr ""
+
+#: ../extend-vc.php:371 ../framework/shortcodes/inc/data.php:263
+msgid ""
+"Give this section a unique ID, you can use it as a target to one page menu "
+"and should be unique"
+msgstr ""
+
+#: ../extend-vc.php:381 ../framework/shortcodes/inc/data.php:268
+msgid "Add custom class to this section"
+msgstr ""
+
+#: ../extend-vc.php:389 ../extend-vc.php:411
+#: ../framework/shortcodes/inc/data.php:297
+msgid "Service"
+msgstr ""
+
+#: ../extend-vc.php:392 ../extend-vc.php:481 ../extend-vc.php:635
+#: ../extend-vc.php:641 ../extend-vc.php:703 ../extend-vc.php:709
+#: ../extend-vc.php:809 ../extend-vc.php:815 ../extend-vc.php:998
+#: ../extend-vc.php:1103 ../extend-vc.php:1364 ../extend-vc.php:1701
+#: ../extend-vc.php:1783 ../extend-vc.php:2174 ../extend-vc.php:2462
+#: ../extend-vc.php:2468 ../framework/shortcodes/inc/data.php:743
+#: ../framework/shortcodes/inc/data.php:766
+#: ../framework/shortcodes/inc/data.php:915
+#: ../framework/shortcodes/inc/data.php:938
+#: ../framework/shortcodes/inc/data.php:1158
+#: ../framework/shortcodes/inc/generator.php:168
+msgid "Content"
+msgstr ""
+
+#: ../extend-vc.php:409 ../extend-vc.php:1707 ../extend-vc.php:1810
+#: ../extend-vc.php:1931 ../extend-vc.php:2180
+#: ../framework/shortcodes/inc/data.php:152
+#: ../framework/shortcodes/inc/data.php:313
+#: ../framework/shortcodes/inc/data.php:581
+#: ../framework/shortcodes/inc/data.php:662
+#: ../framework/shortcodes/inc/data.php:723
+#: ../framework/shortcodes/inc/data.php:1843
+#: ../framework/shortcodes/inc/data.php:1909
+#: ../framework/shortcodes/inc/data.php:1978
+#: ../framework/shortcodes/inc/data.php:2263
+#: ../framework/shortcodes/inc/data.php:2530
+#: ../framework/shortcodes/inc/data.php:2562
+#: ../framework/shortcodes/inc/data.php:2599
+#: ../framework/shortcodes/inc/data.php:2721 ../inc/widgets/postlist.php:56
+#: ../inc/widgets/tweets.php:57
+msgid "Title"
+msgstr ""
+
+#: ../extend-vc.php:465 ../framework/shortcodes/inc/data.php:347
+#: ../framework/shortcodes/inc/data.php:1132
+msgid "Icon Size"
+msgstr ""
+
+#: ../extend-vc.php:473 ../framework/shortcodes/inc/data.php:352
+msgid "Icon Width"
+msgstr ""
+
+#: ../extend-vc.php:488 ../extend-vc.php:1817
+#: ../framework/shortcodes/inc/data.php:367
+#: ../framework/shortcodes/inc/data.php:911
+#: ../framework/shortcodes/inc/data.php:2624
+msgid "Value"
+msgstr ""
+
+#: ../extend-vc.php:496 ../extend-vc.php:1955
+#: ../framework/shortcodes/inc/data.php:372
+#: ../framework/shortcodes/inc/data.php:772
+#: ../framework/shortcodes/inc/data.php:2736
+msgid "Link"
+msgstr ""
+
+#: ../extend-vc.php:508 ../extend-vc.php:2090 ../extend-vc.php:2401
+msgid "Link opens in same window or new tab"
+msgstr ""
+
+#: ../extend-vc.php:514 ../extend-vc.php:1736
+#: ../framework/shortcodes/inc/data.php:306
+#: ../framework/shortcodes/inc/data.php:387
+#: ../framework/shortcodes/inc/data.php:548
+#: ../framework/shortcodes/inc/data.php:821
+#: ../framework/shortcodes/inc/data.php:1122
+#: ../framework/shortcodes/inc/data.php:2417
+#: ../framework/shortcodes/inc/data.php:2824
+msgid "Icon"
+msgstr ""
+
+#: ../extend-vc.php:521 ../extend-vc.php:833 ../extend-vc.php:965
+#: ../extend-vc.php:1394 ../extend-vc.php:2204
+#: ../framework/shortcodes/inc/data.php:48
+#: ../framework/shortcodes/inc/data.php:307
+#: ../framework/shortcodes/inc/data.php:1229
+#: ../framework/shortcodes/inc/data.php:1653
+#: ../framework/shortcodes/inc/data.php:1889
+#: ../framework/shortcodes/inc/data.php:2003
+#: ../framework/shortcodes/inc/data.php:2289
+msgid "Image"
+msgstr ""
+
+#: ../extend-vc.php:528 ../extend-vc.php:1173 ../extend-vc.php:2212
+#: ../extend-vc.php:2486 ../framework/shortcodes/inc/data.php:397
+#: ../framework/shortcodes/inc/data.php:2007
+#: ../framework/shortcodes/inc/data.php:2294
+msgid "Image Width"
+msgstr ""
+
+#: ../extend-vc.php:536 ../extend-vc.php:784 ../extend-vc.php:925
+#: ../framework/shortcodes/inc/data.php:144
+#: ../framework/shortcodes/inc/data.php:284
+#: ../framework/shortcodes/inc/data.php:407
+#: ../framework/shortcodes/inc/data.php:568
+#: ../framework/shortcodes/inc/data.php:609
+#: ../framework/shortcodes/inc/data.php:704
+#: ../framework/shortcodes/inc/data.php:992
+#: ../framework/shortcodes/inc/data.php:1033
+#: ../framework/shortcodes/inc/data.php:1093
+#: ../framework/shortcodes/inc/data.php:1196
+#: ../framework/shortcodes/inc/data.php:1304
+#: ../framework/shortcodes/inc/data.php:1928
+#: ../framework/shortcodes/inc/data.php:2067
+#: ../framework/shortcodes/inc/data.php:2173
+#: ../framework/shortcodes/inc/data.php:2239
+#: ../framework/shortcodes/inc/data.php:2437
+msgid "Margin Top"
+msgstr ""
+
+#: ../extend-vc.php:544 ../extend-vc.php:794 ../extend-vc.php:935
+#: ../extend-vc.php:1838 ../framework/shortcodes/inc/data.php:148
+#: ../framework/shortcodes/inc/data.php:288
+#: ../framework/shortcodes/inc/data.php:411
+#: ../framework/shortcodes/inc/data.php:572
+#: ../framework/shortcodes/inc/data.php:613
+#: ../framework/shortcodes/inc/data.php:708
+#: ../framework/shortcodes/inc/data.php:996
+#: ../framework/shortcodes/inc/data.php:1037
+#: ../framework/shortcodes/inc/data.php:1097
+#: ../framework/shortcodes/inc/data.php:1200
+#: ../framework/shortcodes/inc/data.php:1308
+#: ../framework/shortcodes/inc/data.php:1932
+#: ../framework/shortcodes/inc/data.php:2071
+#: ../framework/shortcodes/inc/data.php:2177
+#: ../framework/shortcodes/inc/data.php:2243
+#: ../framework/shortcodes/inc/data.php:2629
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../extend-vc.php:632 ../framework/shortcodes/inc/data.php:656
+msgid "Alert"
+msgstr ""
+
+#: ../extend-vc.php:700 ../extend-vc.php:806
+#: ../framework/shortcodes/inc/data.php:1209
+msgid "Testimonial"
+msgstr ""
+
+#: ../extend-vc.php:711 ../extend-vc.php:817 ../extend-vc.php:2470
+msgid ""
+"Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean "
+"sollicitudin, lorem quis bibendum auctor"
+msgstr ""
+
+#: ../extend-vc.php:712 ../extend-vc.php:818
+msgid "What the client said"
+msgstr ""
+
+#: ../extend-vc.php:718 ../framework/shortcodes/inc/data.php:955
+msgid "Cite"
+msgstr ""
+
+#: ../extend-vc.php:754 ../extend-vc.php:857
+#: ../framework/shortcodes/inc/data.php:456
+#: ../framework/shortcodes/inc/data.php:527
+#: ../framework/shortcodes/inc/data.php:592
+#: ../framework/shortcodes/inc/data.php:847
+#: ../framework/shortcodes/inc/data.php:881
+#: ../framework/shortcodes/inc/data.php:975
+#: ../framework/shortcodes/inc/data.php:1016
+#: ../framework/shortcodes/inc/data.php:1066
+#: ../framework/shortcodes/inc/data.php:1117
+#: ../framework/shortcodes/inc/data.php:1169
+#: ../framework/shortcodes/inc/data.php:1254
+msgid "Size"
+msgstr ""
+
+#: ../extend-vc.php:777 ../extend-vc.php:865
+msgid "Line Height"
+msgstr ""
+
+#: ../extend-vc.php:824 ../framework/shortcodes/inc/data.php:1224
+msgid "Author"
+msgstr ""
+
+#: ../extend-vc.php:826
+msgid "John Doe"
+msgstr ""
+
+#: ../extend-vc.php:827
+msgid "Who Said This?"
+msgstr ""
+
+#: ../extend-vc.php:835
+msgid "Client Image Or Logo"
+msgstr ""
+
+#: ../extend-vc.php:841 ../extend-vc.php:979
+#: ../framework/shortcodes/inc/data.php:1331 ../inc/postoptions.php:635
+msgid "Client URL"
+msgstr ""
+
+#: ../extend-vc.php:848 ../extend-vc.php:1378
+#: ../framework/shortcodes/inc/data.php:728
+msgid "Position"
+msgstr ""
+
+#: ../extend-vc.php:850
+msgid "CEO"
+msgstr ""
+
+#: ../extend-vc.php:851
+msgid "Client Position"
+msgstr ""
+
+#: ../extend-vc.php:859
+msgid "Testimonial Font Size"
+msgstr ""
+
+#: ../extend-vc.php:867
+msgid "Testimonial Line Height"
+msgstr ""
+
+#: ../extend-vc.php:904 ../framework/shortcodes/inc/data.php:1279
+msgid "Clients"
+msgstr ""
+
+#: ../extend-vc.php:956 ../framework/shortcodes/inc/data.php:1317
+#: ../single-project.php:102 ../single-project.php:104
+msgid "Client"
+msgstr ""
+
+#: ../extend-vc.php:972 ../extend-vc.php:1338 ../extend-vc.php:1370
+#: ../framework/shortcodes/inc/data.php:1148
+#: ../framework/shortcodes/inc/data.php:1615
+#: ../framework/shortcodes/inc/data.php:1637
+msgid "Name"
+msgstr ""
+
+#: ../extend-vc.php:986
+msgid "Logo Max Height"
+msgstr ""
+
+#: ../extend-vc.php:995 ../framework/shortcodes/inc/data.php:1344
+msgid "Projects"
+msgstr ""
+
+#: ../extend-vc.php:1030 ../extend-vc.php:1132
+msgid "Number"
+msgstr ""
+
+#: ../extend-vc.php:1039
+msgid "Number of columns per row"
+msgstr ""
+
+#: ../extend-vc.php:1046 ../extend-vc.php:1148 ../extend-vc.php:1963
+#: ../extend-vc.php:2188 ../framework/shortcodes/inc/data.php:483
+msgid "Button"
+msgstr ""
+
+#: ../extend-vc.php:1048 ../extend-vc.php:1150
+msgid "View All"
+msgstr ""
+
+#: ../extend-vc.php:1049
+msgid "The text of button which links to full portfolio"
+msgstr ""
+
+#: ../extend-vc.php:1055 ../extend-vc.php:1157 ../extend-vc.php:1508
+#: ../extend-vc.php:1729 ../extend-vc.php:2196
+#: ../framework/shortcodes/inc/data.php:489
+#: ../framework/shortcodes/inc/data.php:778
+#: ../framework/shortcodes/inc/data.php:1234
+#: ../framework/shortcodes/inc/data.php:1658
+#: ../framework/shortcodes/inc/data.php:1856
+#: ../framework/shortcodes/inc/data.php:1895
+#: ../framework/shortcodes/inc/data.php:1974
+#: ../framework/shortcodes/inc/data.php:2284 ../inc/megamenu.php:133
+msgid "URL"
+msgstr ""
+
+#: ../extend-vc.php:1057
+msgid "Link to full portfolio"
+msgstr ""
+
+#: ../extend-vc.php:1073 ../extend-vc.php:1165
+#: ../framework/shortcodes/inc/data.php:1403
+#: ../framework/shortcodes/inc/data.php:1482
+msgid "Except"
+msgstr ""
+
+#: ../extend-vc.php:1075 ../framework/shortcodes/inc/data.php:1404
+#: ../framework/shortcodes/inc/data.php:1483
+msgid "IDs of excepted projects, seperate them by comma"
+msgstr ""
+
+#: ../extend-vc.php:1081 ../extend-vc.php:1181
+#: ../framework/shortcodes/inc/data.php:1408
+#: ../framework/shortcodes/inc/data.php:1487 ../inc/widgets/postlist.php:84
+#: ../single-project.php:90
+msgid "Tags"
+msgstr ""
+
+#: ../extend-vc.php:1083 ../framework/shortcodes/inc/data.php:1409
+#: ../framework/shortcodes/inc/data.php:1488
+msgid "Show projects only from these tags, seperate them by comma"
+msgstr ""
+
+#: ../extend-vc.php:1088 ../extend-vc.php:1188
+#: ../framework/shortcodes/inc/data.php:69
+#: ../framework/shortcodes/inc/data.php:98
+#: ../framework/shortcodes/inc/data.php:445
+#: ../framework/shortcodes/inc/data.php:683
+#: ../framework/shortcodes/inc/data.php:836
+#: ../framework/shortcodes/inc/data.php:1045
+#: ../framework/shortcodes/inc/data.php:1299
+#: ../framework/shortcodes/inc/data.php:1811
+#: ../framework/shortcodes/inc/data.php:1903
+#: ../framework/shortcodes/inc/data.php:1986
+#: ../framework/shortcodes/inc/data.php:2507
+#: ../framework/shortcodes/inc/data.php:2571
+#: ../framework/shortcodes/inc/data.php:2653
+#: ../framework/shortcodes/inc/data.php:2705
+#: ../framework/shortcodes/inc/data.php:2715
+#: ../framework/shortcodes/inc/generator-views.php:45
+msgid "Yes"
+msgstr ""
+
+#: ../extend-vc.php:1091
+msgid "This option will add animation to make projects appear one after one"
+msgstr ""
+
+#: ../extend-vc.php:1100 ../framework/shortcodes/inc/data.php:1437
+msgid "Blog Posts"
+msgstr ""
+
+#: ../extend-vc.php:1140
+msgid "Words"
+msgstr ""
+
+#: ../extend-vc.php:1151
+msgid "The text of button which links to full blog page"
+msgstr ""
+
+#: ../extend-vc.php:1159
+msgid "Link to full full blog page"
+msgstr ""
+
+#: ../extend-vc.php:1167
+msgid "IDs of excepted blog posts, seperate them by comma"
+msgstr ""
+
+#: ../extend-vc.php:1175
+msgid "In list style"
+msgstr ""
+
+#: ../extend-vc.php:1183
+msgid "Show blog posts only from these tags, seperate them by comma"
+msgstr ""
+
+#: ../extend-vc.php:1191
+msgid "This option will add animation to make blog posts appear one after one"
+msgstr ""
+
+#: ../extend-vc.php:1271 ../framework/shortcodes/inc/data.php:1561
+msgid "Map"
+msgstr ""
+
+#: ../extend-vc.php:1281 ../framework/shortcodes/inc/data.php:42
+#: ../framework/shortcodes/inc/data.php:543
+#: ../framework/shortcodes/inc/data.php:1567
+#: ../framework/shortcodes/inc/data.php:1947
+#: ../framework/shortcodes/inc/data.php:2234
+msgid "Width"
+msgstr ""
+
+#: ../extend-vc.php:1288 ../extend-vc.php:1845
+#: ../framework/shortcodes/inc/data.php:2644
+msgid "Height"
+msgstr ""
+
+#: ../extend-vc.php:1309 ../framework/shortcodes/inc/data.php:1589
+msgid "Marker Image"
+msgstr ""
+
+#: ../extend-vc.php:1329 ../framework/shortcodes/inc/data.php:1609
+msgid "Location"
+msgstr ""
+
+#: ../extend-vc.php:1345 ../framework/shortcodes/inc/data.php:1623
+msgid "Longitude"
+msgstr ""
+
+#: ../extend-vc.php:1352 ../framework/shortcodes/inc/data.php:1619
+msgid "Latitude"
+msgstr ""
+
+#: ../extend-vc.php:1361 ../framework/shortcodes/inc/data.php:1631
+msgid "Member"
+msgstr ""
+
+#: ../extend-vc.php:1386 ../extend-vc.php:2138
+#: ../framework/shortcodes/inc/data.php:308
+#: ../framework/shortcodes/inc/data.php:1005
+#: ../framework/shortcodes/inc/data.php:1367
+#: ../framework/shortcodes/inc/data.php:1643
+msgid "Text"
+msgstr ""
+
+#: ../extend-vc.php:1402 ../framework/shortcodes/inc/data.php:1724
+msgid "Skill 1"
+msgstr ""
+
+#: ../extend-vc.php:1410 ../framework/shortcodes/inc/data.php:1729
+msgid "Percent 1"
+msgstr ""
+
+#: ../extend-vc.php:1418 ../framework/shortcodes/inc/data.php:1735
+msgid "Skill 2"
+msgstr ""
+
+#: ../extend-vc.php:1426 ../framework/shortcodes/inc/data.php:1740
+msgid "Percent 2"
+msgstr ""
+
+#: ../extend-vc.php:1434 ../framework/shortcodes/inc/data.php:1745
+msgid "Skill 3"
+msgstr ""
+
+#: ../extend-vc.php:1442 ../framework/shortcodes/inc/data.php:1750
+msgid "Percent 3"
+msgstr ""
+
+#: ../extend-vc.php:1450
+msgid "Skill 4"
+msgstr ""
+
+#: ../extend-vc.php:1458
+msgid "Percent 4"
+msgstr ""
+
+#: ../extend-vc.php:1466
+msgid "Skill 5"
+msgstr ""
+
+#: ../extend-vc.php:1474
+msgid "Percent 5"
+msgstr ""
+
+#: ../extend-vc.php:1482
+msgid "Skill 6"
+msgstr ""
+
+#: ../extend-vc.php:1490
+msgid "Percent 6"
+msgstr ""
+
+#: ../extend-vc.php:1516 ../framework/shortcodes/inc/data.php:1663
+msgid "Website"
+msgstr ""
+
+#: ../extend-vc.php:1524 ../framework/shortcodes/inc/data.php:1673
+#: ../framework/shortcodes/inc/data.php:2086 ../functions.php:702
+msgid "Facebook"
+msgstr ""
+
+#: ../extend-vc.php:1532 ../framework/shortcodes/inc/data.php:1678
+#: ../framework/shortcodes/inc/data.php:2090 ../functions.php:701
+msgid "Twitter"
+msgstr ""
+
+#: ../extend-vc.php:1540 ../framework/shortcodes/inc/data.php:1683
+#: ../framework/shortcodes/inc/data.php:2106 ../functions.php:705
+msgid "Linkedin"
+msgstr ""
+
+#: ../extend-vc.php:1548 ../framework/shortcodes/inc/data.php:1688
+#: ../framework/shortcodes/inc/data.php:2130
+msgid "Pinterest"
+msgstr ""
+
+#: ../extend-vc.php:1556 ../framework/shortcodes/inc/data.php:1693
+#: ../framework/shortcodes/inc/data.php:2122
+msgid "Skype"
+msgstr ""
+
+#: ../extend-vc.php:1564 ../framework/shortcodes/inc/data.php:1698
+#: ../framework/shortcodes/inc/data.php:2126
+msgid "Instagram"
+msgstr ""
+
+#: ../extend-vc.php:1572 ../framework/shortcodes/inc/data.php:1703
+msgid "Google"
+msgstr ""
+
+#: ../extend-vc.php:1580 ../framework/shortcodes/inc/data.php:1708
+#: ../framework/shortcodes/inc/data.php:2110
+msgid "Youtube"
+msgstr ""
+
+#: ../extend-vc.php:1588 ../framework/shortcodes/inc/data.php:1713
+#: ../framework/shortcodes/inc/data.php:2102 ../functions.php:704
+msgid "Dribbble"
+msgstr ""
+
+#: ../extend-vc.php:1596 ../framework/shortcodes/inc/data.php:1718
+#: ../framework/shortcodes/inc/data.php:2098
+msgid "Behance"
+msgstr ""
+
+#: ../extend-vc.php:1698 ../framework/shortcodes/inc/data.php:1832
+msgid "Counter"
+msgstr ""
+
+#: ../extend-vc.php:1714 ../framework/shortcodes/inc/data.php:1847
+msgid "Count"
+msgstr ""
+
+#: ../extend-vc.php:1721 ../framework/shortcodes/inc/data.php:1851
+msgid "Time"
+msgstr ""
+
+#: ../extend-vc.php:1723 ../framework/shortcodes/inc/data.php:1852
+msgid ""
+"The time should the counter take to count to the end, time should be in "
+"melisecond which means that 1000 equals 1 second"
+msgstr ""
+
+#: ../extend-vc.php:1780 ../framework/shortcodes/inc/data.php:2582
+msgid "Progress Bar"
+msgstr ""
+
+#: ../extend-vc.php:1824 ../framework/shortcodes/inc/data.php:2608
+msgid "Minimum Value"
+msgstr ""
+
+#: ../extend-vc.php:1831 ../framework/shortcodes/inc/data.php:2616
+msgid "Maximum Value"
+msgstr ""
+
+#: ../extend-vc.php:1868
+msgid "Pricing"
+msgstr ""
+
+#: ../extend-vc.php:1887
+msgid "Plan"
+msgstr ""
+
+#: ../extend-vc.php:1939 ../framework/shortcodes/inc/data.php:2726
+msgid "Price"
+msgstr ""
+
+#: ../extend-vc.php:1947 ../framework/shortcodes/inc/data.php:2731
+msgid "Term"
+msgstr ""
+
+#: ../extend-vc.php:1971 ../extend-vc.php:2364
+msgid "Button Icon"
+msgstr ""
+
+#: ../extend-vc.php:1979 ../extend-vc.php:2356
+msgid "Button Radius"
+msgstr ""
+
+#: ../extend-vc.php:2129
+msgid "Feature"
+msgstr ""
+
+#: ../extend-vc.php:2171
+msgid "Action Bar"
+msgstr ""
+
+#: ../extend-vc.php:2220
+msgid "Image Bottom Margin"
+msgstr ""
+
+#: ../extend-vc.php:2228
+msgid "Title Size In Pixels"
+msgstr ""
+
+#: ../extend-vc.php:2281 ../framework/shortcodes/inc/data.php:2358
+msgid "Content Margin Left"
+msgstr ""
+
+#: ../extend-vc.php:2289 ../framework/shortcodes/inc/data.php:2363
+msgid "Content Margin Right"
+msgstr ""
+
+#: ../extend-vc.php:2407
+msgid "Button Margin Top"
+msgstr ""
+
+#: ../extend-vc.php:2459
+msgid "Pinned Image"
+msgstr ""
+
+#: ../extend-vc.php:2471
+msgid "This is the main content, image will be sticky beside it"
+msgstr ""
+
+#: ../extend-vc.php:2477 ../framework/shortcodes/inc/data.php:392
+#: ../framework/shortcodes/inc/data.php:1323
+msgid "Image URL"
+msgstr ""
+
+#: ../extend-vc.php:2489 ../framework/shortcodes/inc/data.php:2008
+#, php-format
+msgid ""
+"Define image width relative to the main container, if you want the image to "
+"become 20% of the container just write 20"
+msgstr ""
+
+#: ../extend-vc.php:2501 ../framework/shortcodes/inc/data.php:2018
+msgid "Image float relative to the content"
+msgstr ""
+
+#: ../extend-vc.php:2514 ../framework/shortcodes/inc/data.php:2029
+msgid ""
+"This is not relative to the content, it is relative to the image container "
+"itself, if the image size is small to should be centered or aligned to any "
+"side"
+msgstr ""
+
+#: ../framework/importer/parsers.php:42 ../framework/importer/parsers.php:72
+#: ../framework/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../framework/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../framework/importer/parsers.php:84 ../framework/importer/parsers.php:89
+#: ../framework/importer/parsers.php:279 ../framework/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:134
+#: ../framework/importer/wordpress-importer.php:143
+#: ../framework/importer/wordpress-importer.php:194
+#: ../framework/importer/wordpress-importer.php:198
+#: ../framework/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:511
+#: ../framework/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:862
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:875
+msgid "Invalid file type"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:919
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:925
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:932
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:937
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:943
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:1041
+msgid "Import WordPress"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:1048
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:1063
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:1064
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:51
+msgid "Close (Esc)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:52
+msgid "Loading..."
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:53
+msgid "Previous (Left arrow key)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:54
+msgid "Next (Right arrow key)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:55
+#, php-format
+msgid "%s of %s"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:56
+#, php-format
+msgid "Failed to load this link. %sOpen link%s."
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:63
+msgid "Choose file"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:64
+msgid "Insert"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:65
+msgid "Select images"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:66
+msgid "Add selected images"
+msgstr ""
+
+#: ../framework/shortcodes/inc/assets.php:67
+msgid "Last used settings"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:18
+msgid "All"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:19
+msgid "Sanabel"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:20
+#: ../framework/shortcodes/inc/data.php:1354
+#: ../framework/shortcodes/inc/data.php:2687 ../inc/postoptions.php:738
+msgid "Columns"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:31
+msgid "Section"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:38
+#: ../framework/shortcodes/inc/data.php:87
+#: ../framework/shortcodes/inc/data.php:99
+msgid "Fixed"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:39
+#: ../framework/shortcodes/inc/data.php:1364
+#: ../framework/shortcodes/inc/data.php:1398
+msgid "Full"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:47
+#: ../framework/shortcodes/inc/data.php:518
+#: ../framework/shortcodes/inc/data.php:588
+#: ../framework/shortcodes/inc/data.php:749
+#: ../framework/shortcodes/inc/data.php:756
+#: ../framework/shortcodes/inc/data.php:843
+#: ../framework/shortcodes/inc/data.php:928
+#: ../framework/shortcodes/inc/data.php:951
+#: ../framework/shortcodes/inc/data.php:1012
+#: ../framework/shortcodes/inc/data.php:1062
+#: ../framework/shortcodes/inc/data.php:1113
+#: ../framework/shortcodes/inc/data.php:1165
+#: ../framework/shortcodes/inc/data.php:2058
+#: ../framework/shortcodes/inc/data.php:2164
+#: ../framework/shortcodes/inc/data.php:2215
+#: ../framework/shortcodes/inc/data.php:2320
+#: ../framework/shortcodes/inc/generator-views.php:99
+msgid "Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:49
+msgid "Video"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:50
+msgid "Half Image Left"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:51
+msgid "Half Image Right"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:54
+msgid "Background"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:59
+#: ../framework/shortcodes/inc/data.php:690
+#: ../framework/shortcodes/inc/data.php:1245
+#: ../framework/shortcodes/inc/data.php:1538
+#: ../framework/shortcodes/inc/data.php:1757
+#: ../framework/shortcodes/inc/data.php:1881
+#: ../framework/shortcodes/inc/data.php:2640
+#: ../framework/shortcodes/inc/data.php:2872
+#: ../framework/shortcodes/inc/data.php:2920
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:63
+msgid "Background Image"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:64
+msgid "Image background in case of background is set to show image"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:73
+msgid "Image Background Fof Mobile?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:78
+msgid "Overlay Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:83
+#: ../framework/shortcodes/inc/data.php:321
+#: ../framework/shortcodes/inc/data.php:497
+#: ../framework/shortcodes/inc/data.php:807
+#: ../framework/shortcodes/inc/data.php:1218
+#: ../framework/shortcodes/inc/data.php:1363
+#: ../framework/shortcodes/inc/data.php:1397
+#: ../framework/shortcodes/inc/data.php:2048
+#: ../framework/shortcodes/inc/data.php:2154
+#: ../framework/shortcodes/inc/data.php:2276
+#: ../framework/shortcodes/inc/data.php:2371
+#: ../framework/shortcodes/inc/data.php:2804
+msgid "Default"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:84
+msgid "Cover"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:85
+msgid "Pattern"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:86
+msgid "Responsive"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:90
+msgid "Background Image Style"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:94
+msgid "Parallax"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:100
+#: ../framework/shortcodes/inc/data.php:2593
+msgid "Animated"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:105
+msgid "Parallax Speed"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:111
+msgid "Parallax Offset"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:112
+msgid "Image margin top when the top of div section hits the to of the screen"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:116
+msgid "Mp4 Video Link"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:117
+#: ../framework/shortcodes/inc/data.php:122
+#: ../framework/shortcodes/inc/data.php:127
+#: ../framework/shortcodes/inc/data.php:132
+msgid "Video in case of background is set to show video"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:121
+msgid "WEBM Video Link"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:126
+msgid "M4V Video Link"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:131
+msgid "OGG Video Link"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:136
+#: ../framework/shortcodes/inc/data.php:2903
+msgid "Padding Top"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:140
+#: ../framework/shortcodes/inc/data.php:2907
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:156
+msgid "Subtitle"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:160
+msgid "Title Icon"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:164
+msgid "Title Icon Size"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:168
+msgid "Title Align"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:171
+#: ../framework/shortcodes/inc/data.php:186
+#: ../framework/shortcodes/inc/data.php:360
+#: ../framework/shortcodes/inc/data.php:620
+#: ../framework/shortcodes/inc/data.php:855
+#: ../framework/shortcodes/inc/data.php:968
+#: ../framework/shortcodes/inc/data.php:1086
+#: ../framework/shortcodes/inc/data.php:1189
+#: ../framework/shortcodes/inc/data.php:1219
+#: ../framework/shortcodes/inc/data.php:1288
+#: ../framework/shortcodes/inc/data.php:1921
+#: ../framework/shortcodes/inc/data.php:2025
+#: ../framework/shortcodes/inc/data.php:2049
+#: ../framework/shortcodes/inc/data.php:2155
+#: ../framework/shortcodes/inc/data.php:2222
+#: ../framework/shortcodes/inc/data.php:2338
+#: ../framework/shortcodes/inc/data.php:2982
+msgid "Center"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:172
+#: ../framework/shortcodes/inc/data.php:185
+#: ../framework/shortcodes/inc/data.php:331
+#: ../framework/shortcodes/inc/data.php:361
+#: ../framework/shortcodes/inc/data.php:621
+#: ../framework/shortcodes/inc/data.php:733
+#: ../framework/shortcodes/inc/data.php:856
+#: ../framework/shortcodes/inc/data.php:969
+#: ../framework/shortcodes/inc/data.php:1087
+#: ../framework/shortcodes/inc/data.php:1190
+#: ../framework/shortcodes/inc/data.php:1289
+#: ../framework/shortcodes/inc/data.php:1922
+#: ../framework/shortcodes/inc/data.php:2015
+#: ../framework/shortcodes/inc/data.php:2026
+#: ../framework/shortcodes/inc/data.php:2050
+#: ../framework/shortcodes/inc/data.php:2156
+#: ../framework/shortcodes/inc/data.php:2223
+#: ../framework/shortcodes/inc/data.php:2302
+#: ../framework/shortcodes/inc/data.php:2337
+#: ../framework/shortcodes/inc/data.php:2349
+#: ../framework/shortcodes/inc/data.php:2983
+msgid "Left"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:173
+#: ../framework/shortcodes/inc/data.php:187
+#: ../framework/shortcodes/inc/data.php:332
+#: ../framework/shortcodes/inc/data.php:362
+#: ../framework/shortcodes/inc/data.php:622
+#: ../framework/shortcodes/inc/data.php:734
+#: ../framework/shortcodes/inc/data.php:857
+#: ../framework/shortcodes/inc/data.php:970
+#: ../framework/shortcodes/inc/data.php:1088
+#: ../framework/shortcodes/inc/data.php:1191
+#: ../framework/shortcodes/inc/data.php:1290
+#: ../framework/shortcodes/inc/data.php:1923
+#: ../framework/shortcodes/inc/data.php:2016
+#: ../framework/shortcodes/inc/data.php:2027
+#: ../framework/shortcodes/inc/data.php:2051
+#: ../framework/shortcodes/inc/data.php:2157
+#: ../framework/shortcodes/inc/data.php:2224
+#: ../framework/shortcodes/inc/data.php:2303
+#: ../framework/shortcodes/inc/data.php:2339
+#: ../framework/shortcodes/inc/data.php:2350
+#: ../framework/shortcodes/inc/data.php:2984
+msgid "Right"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:178
+msgid "Title Margin"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:182
+#: ../framework/shortcodes/inc/data.php:2334
+msgid "Content Align"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:193
+#: ../framework/shortcodes/inc/data.php:416
+#: ../framework/shortcodes/inc/data.php:1543
+#: ../framework/shortcodes/inc/data.php:1762
+#: ../framework/shortcodes/inc/data.php:1861
+#: ../framework/shortcodes/inc/data.php:2325
+#: ../framework/shortcodes/inc/data.php:2777
+msgid "Title Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:198
+msgid "Title Icon Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:203
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:208
+#: ../framework/shortcodes/inc/data.php:700
+#: ../framework/shortcodes/inc/data.php:2925
+msgid "Content Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:212
+#: ../framework/shortcodes/inc/data.php:246
+msgid "Title Separator"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:216
+msgid "Underline"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:222
+msgid "Title Separator Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:227
+#: ../framework/shortcodes/inc/data.php:2943
+msgid "Border Top Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:232
+#: ../framework/shortcodes/inc/data.php:2952
+msgid "Border Bottom Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:236
+msgid "Unique Word In Title"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:237
+msgid ""
+"Write a unique word to appear in different color in title, this word should "
+"be written in the title"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:242
+msgid "Unique Word color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:250
+#: ../framework/shortcodes/inc/data.php:330
+#: ../framework/shortcodes/inc/data.php:731
+#: ../framework/shortcodes/inc/data.php:2277
+#: ../framework/shortcodes/inc/data.php:2351
+msgid "Top"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:251
+#: ../framework/shortcodes/inc/data.php:732
+#: ../framework/shortcodes/inc/data.php:2278
+#: ../framework/shortcodes/inc/data.php:2352
+msgid "Bottom"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:252
+msgid "Both"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:258
+msgid "Pointer color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:262
+#: ../framework/shortcodes/inc/data.php:896
+#: ../framework/shortcodes/inc/data.php:905
+#: ../framework/shortcodes/inc/data.php:2514
+#: ../framework/shortcodes/inc/data.php:2546
+msgid "ID"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:267
+msgid "Class"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:272
+msgid ""
+"\n"
+"[row]\n"
+"[one_third]Content[/one_third]\n"
+"[one_third]Content[/one_third]\n"
+"[one_third]Content[/one_third]\n"
+"[/row]\n"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:278
+msgid "Row"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:291
+#: ../framework/shortcodes/inc/data.php:3002
+msgid ""
+"\n"
+"[one_third]Content[/one_third]\n"
+"[one_third]Content[/one_third]\n"
+"[one_third]Content[/one_third]\n"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:303
+#: ../framework/shortcodes/inc/data.php:2192
+#: ../framework/tgm/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:318
+msgid "Icon Style"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:322
+#: ../framework/shortcodes/inc/data.php:809
+msgid "Circle"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:327
+msgid "Icon Position"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:338
+#: ../framework/shortcodes/inc/data.php:554
+#: ../framework/shortcodes/inc/data.php:1128
+#: ../framework/shortcodes/inc/data.php:1866
+#: ../framework/shortcodes/inc/data.php:2423
+#: ../framework/shortcodes/inc/data.php:2830
+msgid "Icon Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:343
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:348
+msgid "Define size in Pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:353
+msgid ""
+"This is the width of div wrapping the icon, in case of circle icon style "
+"this will be the width of circle"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:357
+#: ../framework/shortcodes/inc/data.php:617
+#: ../framework/shortcodes/inc/data.php:852
+#: ../framework/shortcodes/inc/data.php:965
+#: ../framework/shortcodes/inc/data.php:1083
+#: ../framework/shortcodes/inc/data.php:1186
+#: ../framework/shortcodes/inc/data.php:1285
+#: ../framework/shortcodes/inc/data.php:1918
+#: ../framework/shortcodes/inc/data.php:2045
+#: ../framework/shortcodes/inc/data.php:2151
+#: ../framework/shortcodes/inc/data.php:2219
+#: ../framework/shortcodes/inc/data.php:2979
+msgid "Align"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:368
+msgid ""
+"Small text below the block, you can use it to write a value of the service "
+"or as a read more link"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:377
+#: ../framework/shortcodes/inc/data.php:558
+#: ../framework/shortcodes/inc/data.php:783
+#: ../framework/shortcodes/inc/data.php:2427
+#: ../framework/shortcodes/inc/data.php:2834
+msgid "Target"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:380
+#: ../framework/shortcodes/inc/data.php:561
+#: ../framework/shortcodes/inc/data.php:786
+#: ../framework/shortcodes/inc/data.php:2430
+#: ../framework/shortcodes/inc/data.php:2837
+msgid "_selft"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:381
+#: ../framework/shortcodes/inc/data.php:562
+#: ../framework/shortcodes/inc/data.php:787
+#: ../framework/shortcodes/inc/data.php:2431
+#: ../framework/shortcodes/inc/data.php:2838
+msgid "_blank"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:383
+#: ../framework/shortcodes/inc/data.php:564
+#: ../framework/shortcodes/inc/data.php:789
+#: ../framework/shortcodes/inc/data.php:2433
+#: ../framework/shortcodes/inc/data.php:2840
+msgid ""
+"Select if the link opens in the same tab or new tab, select _self for the "
+"same tab and _blank for new tab"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:388
+#: ../framework/shortcodes/inc/data.php:549
+#: ../framework/shortcodes/inc/data.php:828
+#: ../framework/shortcodes/inc/data.php:1123
+#: ../framework/shortcodes/inc/data.php:1839
+#: ../framework/shortcodes/inc/data.php:2418
+#: ../framework/shortcodes/inc/data.php:2825
+msgid "Read documentation to know more about icon names"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:393
+msgid "Service image url in case you set service type to image not icon"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:398
+#: ../framework/shortcodes/inc/data.php:1948
+msgid "Define width in Pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:402
+msgid "Image Heigh"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:403
+#: ../framework/shortcodes/inc/data.php:2645
+msgid "Define height in Pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:421
+#: ../framework/shortcodes/inc/data.php:523
+#: ../framework/shortcodes/inc/data.php:1250
+#: ../framework/shortcodes/inc/data.php:1548
+#: ../framework/shortcodes/inc/data.php:1772
+#: ../framework/shortcodes/inc/data.php:2330
+#: ../framework/shortcodes/inc/data.php:2877
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:426
+#: ../framework/shortcodes/inc/data.php:452
+msgid "Value Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:430
+#: ../framework/shortcodes/inc/data.php:1593
+#: ../framework/shortcodes/inc/data.php:1817
+#: ../framework/shortcodes/inc/data.php:1936
+#: ../framework/shortcodes/inc/data.php:2460
+msgid "Frame"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:434
+#: ../framework/shortcodes/inc/data.php:470
+#: ../framework/shortcodes/inc/data.php:510
+#: ../framework/shortcodes/inc/data.php:1597
+#: ../framework/shortcodes/inc/data.php:1821
+#: ../framework/shortcodes/inc/data.php:1940
+#: ../framework/shortcodes/inc/data.php:2384
+#: ../framework/shortcodes/inc/data.php:2451
+#: ../framework/shortcodes/inc/data.php:2817
+msgid "Light"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:435
+#: ../framework/shortcodes/inc/data.php:471
+#: ../framework/shortcodes/inc/data.php:511
+#: ../framework/shortcodes/inc/data.php:670
+#: ../framework/shortcodes/inc/data.php:1598
+#: ../framework/shortcodes/inc/data.php:1822
+#: ../framework/shortcodes/inc/data.php:1941
+#: ../framework/shortcodes/inc/data.php:2385
+#: ../framework/shortcodes/inc/data.php:2452
+#: ../framework/shortcodes/inc/data.php:2818
+msgid "Dark"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:441
+msgid "Box"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:459
+#: ../framework/shortcodes/inc/data.php:530
+#: ../framework/shortcodes/inc/data.php:2404
+#: ../framework/shortcodes/inc/data.php:2847
+msgid "Small"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:460
+#: ../framework/shortcodes/inc/data.php:531
+#: ../framework/shortcodes/inc/data.php:2405
+#: ../framework/shortcodes/inc/data.php:2848
+msgid "Medium"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:461
+msgid "Big"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:467
+#: ../framework/shortcodes/inc/data.php:506
+#: ../framework/shortcodes/inc/data.php:675
+#: ../framework/shortcodes/inc/data.php:808
+#: ../framework/shortcodes/inc/data.php:2453
+msgid "Skin"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:472
+#: ../framework/shortcodes/inc/data.php:509
+#: ../framework/shortcodes/inc/data.php:2383
+#: ../framework/shortcodes/inc/data.php:2816
+msgid "Theme Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:477
+#: ../framework/shortcodes/inc/data.php:711
+#: ../framework/shortcodes/inc/data.php:2481
+#: ../framework/shortcodes/inc/data.php:2535
+#: ../framework/shortcodes/inc/data.php:2577
+msgid "Lorem ipsum dolor sit amet, consetetur sadipscing elitr."
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:494
+#: ../framework/shortcodes/inc/data.php:667
+#: ../framework/shortcodes/inc/data.php:804
+#: ../framework/shortcodes/inc/data.php:1215
+#: ../framework/shortcodes/inc/data.php:1360
+#: ../framework/shortcodes/inc/data.php:1447
+#: ../framework/shortcodes/inc/data.php:1577
+#: ../framework/shortcodes/inc/data.php:2203
+#: ../framework/shortcodes/inc/data.php:2448
+#: ../framework/shortcodes/inc/data.php:2588
+#: ../framework/shortcodes/inc/data.php:2670 ../inc/postoptions.php:728
+msgid "Style"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:498
+#: ../framework/shortcodes/inc/data.php:2372
+#: ../framework/shortcodes/inc/data.php:2805
+msgid "Soft"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:499
+#: ../framework/shortcodes/inc/data.php:2373
+#: ../framework/shortcodes/inc/data.php:2806
+msgid "Gradient"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:500
+#: ../framework/shortcodes/inc/data.php:2374
+#: ../framework/shortcodes/inc/data.php:2465
+#: ../framework/shortcodes/inc/data.php:2807
+msgid "Flat"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:532
+#: ../framework/shortcodes/inc/data.php:2406
+#: ../framework/shortcodes/inc/data.php:2849
+msgid "Large"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:538
+#: ../framework/shortcodes/inc/data.php:2412
+#: ../framework/shortcodes/inc/data.php:2855
+#: ../framework/shortcodes/inc/data.php:2974
+msgid "Radius"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:539
+#: ../framework/shortcodes/inc/data.php:2413
+#: ../framework/shortcodes/inc/data.php:2856
+#: ../framework/shortcodes/inc/data.php:2975
+msgid "The size of radius in Pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:544
+msgid ""
+"Widh of the button you should define a unit, for example (400px) or (100%)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:575
+msgid "Read More"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:593
+#: ../framework/shortcodes/inc/data.php:848
+#: ../framework/shortcodes/inc/data.php:882
+#: ../framework/shortcodes/inc/data.php:976
+#: ../framework/shortcodes/inc/data.php:1017
+#: ../framework/shortcodes/inc/data.php:1067
+#: ../framework/shortcodes/inc/data.php:1118
+#: ../framework/shortcodes/inc/data.php:1170
+#: ../framework/shortcodes/inc/data.php:1255
+msgid "Font size in pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:597
+#: ../framework/shortcodes/inc/data.php:760
+#: ../framework/shortcodes/inc/data.php:932
+#: ../framework/shortcodes/inc/data.php:980
+#: ../framework/shortcodes/inc/data.php:1021
+#: ../framework/shortcodes/inc/data.php:1071
+#: ../framework/shortcodes/inc/data.php:1174
+msgid "Font weight"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:600
+#: ../framework/shortcodes/inc/data.php:763
+#: ../framework/shortcodes/inc/data.php:935
+#: ../framework/shortcodes/inc/data.php:983
+#: ../framework/shortcodes/inc/data.php:1024
+#: ../framework/shortcodes/inc/data.php:1074
+#: ../framework/shortcodes/inc/data.php:1177
+msgid "Font weight in pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:604
+#: ../framework/shortcodes/inc/data.php:987
+#: ../framework/shortcodes/inc/data.php:1028
+#: ../framework/shortcodes/inc/data.php:1078
+#: ../framework/shortcodes/inc/data.php:1181
+#: ../framework/shortcodes/inc/data.php:1259
+msgid "Line Heigh"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:605
+#: ../framework/shortcodes/inc/data.php:988
+#: ../framework/shortcodes/inc/data.php:1029
+#: ../framework/shortcodes/inc/data.php:1079
+#: ../framework/shortcodes/inc/data.php:1182
+#: ../framework/shortcodes/inc/data.php:1260
+msgid "Line height in pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:627
+#: ../framework/shortcodes/inc/data.php:642
+msgid "Separator"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:630
+msgid "no"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:631
+#: ../framework/shortcodes/inc/data.php:2195
+msgid "Single"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:632
+#: ../framework/shortcodes/inc/data.php:2196
+msgid "Double"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:633
+msgid "Thick"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:634
+msgid "Part"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:635
+msgid "Part Thick"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:646
+msgid "Divider Width"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:647
+msgid ""
+"Widh of the separator you should define a unit, for example (30px) or (70%)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:650
+msgid "New Heading Title"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:671
+msgid "Info"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:672
+msgid "Warning"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:673
+msgid "Success"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:674
+msgid "Danger"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:680
+msgid "Close Button"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:695
+#: ../framework/shortcodes/inc/data.php:1876
+#: ../framework/shortcodes/inc/data.php:2747
+#: ../framework/shortcodes/inc/data.php:2882
+#: ../framework/shortcodes/inc/data.php:2934
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:717
+#: ../framework/shortcodes/inc/data.php:1295
+msgid "Tooltip"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:739
+msgid "Delay"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:740
+msgid ""
+"Time in melliseconds the tooltip should wait before popup after mouse hover"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:792
+#: ../framework/shortcodes/inc/data.php:815
+msgid "Link Text Here"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:798
+msgid "Dropcap"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:810
+msgid "Square"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:827
+#: ../framework/shortcodes/inc/data.php:1838
+msgid "Icon Name"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:832
+msgid "Icon Has Default Theme Color?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:838
+msgid "Ignore this option if you need to set a custom color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:866
+msgid "New Line ( br )"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:875
+msgid "Empty Space"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:890
+msgid "Marker"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:897
+#: ../framework/shortcodes/inc/data.php:912
+msgid "Should be unuiqe and do not repeat it in another place"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:900
+msgid ""
+"Adds an invisible div with unique ID so you can use it as a target to one "
+"page menu"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:916
+msgid ""
+"Wrap content with unique ID so you can use it as a target to one page menu"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:921
+msgid "Bold Text"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:944
+msgid "Quote"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:961
+msgid "Cite Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:999
+#: ../framework/shortcodes/inc/data.php:1049
+msgid "Lorem ipsum dolor sit amet, consetetur sadipscing elitr"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1041
+msgid "Is this a new paragraph ?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1055
+#: ../framework/shortcodes/inc/data.php:1451
+msgid "List"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1100
+msgid ""
+"\n"
+"\n"
+"[list_item]Here is a list item[/list_item]\n"
+"[list_item]Here is a list item[/list_item]\n"
+"[list_item]Here is a list item[/list_item]\n"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1106
+msgid "List Item"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1133
+msgid "Icon size in pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1136
+#: ../framework/shortcodes/inc/data.php:1203
+#: ../framework/shortcodes/inc/data.php:1273
+msgid "Here is a list item"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1142
+msgid "Set"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1149
+msgid ""
+"Effect name, you can read more details about the effect names in the "
+"documentation"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1152
+msgid ""
+" lets you create a set of items with appear effect, so these group of items "
+"will appear on the page one after one with a css3 effect"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1239
+msgid "Author Position"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1265
+msgid "Name Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1270
+#: ../framework/shortcodes/inc/data.php:1767
+msgid "Position Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1311
+msgid ""
+"[client image=\"http://link.jpg\"][client image=\"http://link.jpg\"][client "
+"image=\"http://link.jpg\"]"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1327 ../inc/postoptions.php:630
+msgid "Client Name"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1335
+msgid "Max Heigh"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1336
+msgid "Max height of client logo image in Pixels"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1350
+#: ../framework/shortcodes/inc/data.php:1443
+msgid "Number Of Projects"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1365
+msgid "Classic"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1366
+#: ../framework/shortcodes/inc/data.php:1450
+msgid "Grid"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1372
+#: ../framework/shortcodes/inc/data.php:1456
+msgid "Order By"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1384
+#: ../framework/shortcodes/inc/data.php:1468
+#: ../framework/shortcodes/inc/data.php:2268
+#: ../framework/shortcodes/inc/data.php:2741
+msgid "Button Text"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1385
+#: ../framework/shortcodes/inc/data.php:1469
+msgid "Show more button text"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1389
+#: ../framework/shortcodes/inc/data.php:1473
+msgid "Button URL"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1390
+#: ../framework/shortcodes/inc/data.php:1474
+msgid "Show more button URL"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1394
+#: ../framework/shortcodes/inc/data.php:2368
+#: ../framework/shortcodes/inc/data.php:2801
+msgid "Button Style"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1413
+#: ../framework/shortcodes/inc/data.php:1492
+msgid "Show projects one by one"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1422
+msgid "Gray Photos?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1429
+msgid "Show projects images in black and white"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1478
+msgid "Number of words in the description"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1501
+msgid "Show Post Date"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1510
+msgid "Show Post Time"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1519
+msgid "Show Post Comments"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1528
+msgid "Show Post Author"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1553
+msgid "Meta Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1568
+msgid "Widh of the map you should define a unit, for example (400px) or (100%)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1572
+#: ../framework/shortcodes/inc/data.php:1952
+msgid "Heigh"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1573
+msgid ""
+"Heigh of the map you should define a unit, for example (400px) or (100%)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1583
+msgid "Zoom"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1603
+msgid ""
+"[location lat=\"0000\" long=\"0000\"][location lat=\"0000\" long=\"0000\"]"
+"[location lat=\"0000\" long=\"0000\"]"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1604
+#: ../framework/shortcodes/inc/data.php:1626
+#: ../framework/shortcodes/inc/data.php:1827
+msgid "Read documentation to know more about map and locations"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1648
+msgid "Member Position"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1668
+msgid "Mail"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1777
+msgid "Social Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1782
+msgid "Social icons Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1787
+msgid "Social Border Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1792
+msgid "Skills Border Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1797
+msgid "Skills Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1802
+msgid "Skills Bar Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1807
+msgid "Skills Bars Animate"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1871
+msgid "Count Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1899
+msgid "Open In Lightbox?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1910
+msgid ""
+"A name to descripe the image, this title will not appear on the page, it is "
+"only for HTML reference"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1914
+msgid "Lightbox Title"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1953
+msgid "Define height in Pixels, Leave empty for auto scaling"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1957
+#: ../framework/shortcodes/inc/data.php:2197
+#: ../framework/shortcodes/inc/data.php:2441
+msgid "Shadow"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1968
+msgid "Lightbox"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1982
+msgid "Is this a frame lightbox?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1988
+msgid "Set to yes if you want to open video in the lightbox"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1992
+msgid "This Content Opens Lightbox"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:1997
+msgid "Pin"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2012
+#: ../framework/shortcodes/inc/data.php:2022
+#: ../framework/shortcodes/inc/data.php:2299
+msgid "Image Align"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2033
+msgid "Pinned image beside the content"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2034
+msgid ""
+"This content will be the main content, and image link in the pin shortcode "
+"will be sticky from the beginning to ending of this content."
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2039
+msgid "My Social"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2063
+#: ../framework/shortcodes/inc/data.php:2169
+msgid "Icons Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2075
+msgid "Outputs all your social profiles from theme options"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2080
+msgid "Social"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2094 ../functions.php:703
+msgid "Google Plus"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2114
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2118
+msgid "VK"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2134
+msgid "Github"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2138
+msgid "Ren Ren"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2142
+msgid "Flickr"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2146
+msgid "RSS"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2181
+msgid "Outputs custom social profiles links"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2186
+msgid "Divider"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2206
+#: ../framework/shortcodes/inc/data.php:2474
+msgid "Solid"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2207
+#: ../framework/shortcodes/inc/data.php:2475
+msgid "Dashed"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2208
+#: ../framework/shortcodes/inc/data.php:2476
+msgid "Dotted"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2230
+msgid "Height is the thickness Of The Line"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2235
+msgid ""
+"Widh of the divider you should define a unit, for example (30px) or (70%)"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2247
+#: ../framework/shortcodes/inc/data.php:2899
+msgid "Padding"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2248
+msgid ""
+"If you set divider type to double, this will be the padding between the to "
+"lines"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2257
+msgid "Action"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2273
+msgid "Button Position"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2309
+msgid "Image Bottom Offset"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2314
+msgid "Title Size"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2315
+msgid "Define title in Pixels, leave empty for auto theme size"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2345
+msgid "Hilight"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2348
+msgid "None"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2380
+#: ../framework/shortcodes/inc/data.php:2813
+msgid "Button Skin"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2392
+#: ../framework/shortcodes/inc/data.php:2787
+msgid "Button Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2397
+#: ../framework/shortcodes/inc/data.php:2792
+msgid "Button Text Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2401
+#: ../framework/shortcodes/inc/data.php:2844
+msgid "Button Size"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2454
+msgid "Gray"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2464
+msgid "Normal"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2471
+msgid "Frame Style"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2488
+msgid "Tabs"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2494
+msgid "Tabs Style"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2497
+msgid "Vertical Tabs"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2498
+msgid "Horizontal Tabs"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2504
+msgid "Justify Tabs?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2510
+msgid "Make all tabs the same width and justify them based on all width"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2515
+#: ../framework/shortcodes/inc/data.php:2547
+msgid ""
+"You can define a unique ID to prevent any conflict, by default we generate a "
+"random long number to prevent this, you can leave this empty and we handle "
+"this."
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2519
+msgid ""
+"[tab title=\"First tab\"]First Content[/tab][tab title=\"Second tab\"]Second "
+"Content[/tab][tab title=\"Third tab\"]Third Content[/tab]"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2524
+msgid "Tab"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2540
+msgid "Accordion"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2551
+msgid ""
+"[toggle open=\"yes\" title=\"First toggle\"]First Content[/toggle][toggle "
+"title=\"Second toggle\"]Second Content[/toggle][toggle title=\"Third toggle"
+"\"]Third Content[/toggle]"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2556
+#: ../inc/shortcodes/shortcodes.php:3342
+msgid "Toggle"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2567
+msgid "Open"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2573
+msgid "Select if the toggle is open when page load"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2591
+msgid "Basic"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2592
+msgid "Striped"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2625
+msgid "Should be some value between min and max"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2635
+msgid "Bar Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2649
+msgid "Animate"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2664
+msgid "Pricing Table"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2675
+msgid ""
+"This is the pricing table, you need to wrap plans and features inside it"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2676
+msgid ""
+"\n"
+"\n"
+"[plan][feature][/feature][/plan]\n"
+"[plan][feature][/feature][/plan]\n"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2681
+msgid "Pricing Plan"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2690
+msgid "One"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2691
+msgid "Two"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2692
+msgid "Three"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2693
+msgid "Four"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2694
+msgid "Five"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2695
+msgid "Six"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2697
+msgid ""
+"number of plans in the row of pricing table, four means the plan will be 1/4 "
+"of the table widh and table can show 4 plans in one row"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2701
+msgid "Featured?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2707
+msgid ""
+"Select if this plan is marked as featured plan, it will have a unique color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2711
+msgid "Shadow?"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2717
+msgid ""
+"Select if this plan is outlined by shadow, use this if you need more "
+"outstanding than other plans"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2752
+msgid "Price Border Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2757
+msgid "Price Background"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2762
+msgid "Price Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2767
+msgid "Term Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2772
+msgid "Title Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2782
+msgid "Button Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2797
+msgid "Button Border Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2859
+msgid "This is the pricing plan, you need to put it inside pricing shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2860
+msgid ""
+"\n"
+"\n"
+"[feature]Feature One[/feature]\n"
+"[feature]Feature Two[/feature]\n"
+"[feature]Feature Three[/feature]"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2865
+msgid "Pricing Feature"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2885
+msgid ""
+"Inside each pricing plan you need to add features, every line in the plan is "
+"a feature"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2886
+msgid "This is a feature"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2911
+msgid "Padding Left"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2915
+msgid "Padding Right"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2929
+#: ../framework/shortcodes/inc/data.php:2938
+#: ../framework/shortcodes/inc/data.php:2947
+#: ../framework/shortcodes/inc/data.php:2956
+#: ../framework/shortcodes/inc/data.php:2965
+msgid "Border Width"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2961
+msgid "Border Left Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2970
+msgid "Border Right Color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2992
+msgid "Column Width"
+msgstr ""
+
+#: ../framework/shortcodes/inc/data.php:2993
+msgid ""
+"The width of this custom column, a unit should defined, columns in one row "
+"should be the sum of 1170px or 100%, for example you can create two custom "
+"columns inside one row, one has width 25% and the other has the width 75%"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:50
+#: ../framework/shortcodes/inc/generator-views.php:55
+msgid "Media manager"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:55
+msgid "Icon picker"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:55
+msgid "Filter icons"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:69
+msgid "Please wait"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:76
+msgid "Untitled gallery"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:82
+msgid "Galleries not found"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:83
+msgid "Manage galleries"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:83
+msgid "Reload galleries"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:99
+msgid "Horizontal offset"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:99
+msgid "Vertical offset"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:99
+msgid "Blur"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:110
+msgid "Border width"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:110
+msgid "Border style"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:110
+msgid "Border color"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:120
+msgid "Media library"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:121
+msgid "Recent posts"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:122
+msgid "Category"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:123
+msgid "Taxonomy"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:126
+msgid "Select images source"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:137
+msgid "Select taxonomy"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:148
+msgid "Add images"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:148
+msgid ""
+"Click the button above and select images.<br>You can select multimple images "
+"with Ctrl (Cmd) key"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:148
+msgid ""
+"Select categories to retrieve posts from.<br>You can select multiple "
+"categories with Ctrl (Cmd) key"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator-views.php:148
+msgid ""
+"Select taxonomy and it's terms.<br>You can select multiple terms with Ctrl "
+"(Cmd) key"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:38
+#: ../framework/shortcodes/inc/generator.php:134
+msgid "Insert shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:85
+msgid "Search for shortcodes"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:87
+msgid "Filter by type"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:122
+msgid "Shortcode not specified"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:138
+msgid "Click to return to the shortcodes list"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:138
+msgid "All shortcodes"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:161
+msgid "Click to set this value"
+msgstr ""
+
+#: ../framework/shortcodes/inc/generator.php:177
+#: ../framework/shortcodes/inc/tools.php:797
+msgid "Access denied"
+msgstr ""
+
+#: ../framework/shortcodes/inc/tools.php:253
+msgid "Additional skins successfully installed"
+msgstr ""
+
+#: ../framework/shortcodes/inc/tools.php:253
+msgid "Open dropdown to choose one of new styles"
+msgstr ""
+
+#: ../framework/shortcodes/inc/tools.php:254
+msgid "Get more styles"
+msgstr ""
+
+#: ../framework/shortcodes/inc/tools.php:806
+msgid "Slide link"
+msgstr ""
+
+#: ../framework/shortcodes/inc/tools.php:809
+#: ../framework/shortcodes/inc/widget.php:14
+#: ../framework/shortcodes/inc/widget.php:40
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../framework/shortcodes/inc/tools.php:809
+msgid ""
+"Use this field to add custom links to slides used with Slider, Carousel and "
+"Custom Gallery shortcodes"
+msgstr ""
+
+#: ../framework/shortcodes/inc/widget.php:7
+msgid "Special Shortcodes Ultimate widget"
+msgstr ""
+
+#: ../framework/shortcodes/inc/widget.php:46
+msgid "Title:"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:161 ../functions.php:215
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:162 ../functions.php:216
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:163 ../functions.php:217
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:175 ../functions.php:229
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:177
+#: ../framework/tgm/class-tgm-plugin-activation.php:1939 ../functions.php:230
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:178
+#: ../framework/tgm/class-tgm-plugin-activation.php:1630
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:531
+#: ../framework/tgm/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1287
+#: ../framework/tgm/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1309
+#: ../framework/tgm/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2053
+#: ../framework/tgm/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2053
+#: ../framework/tgm/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions.php:95
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:96
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:218
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:231
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:258
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:343
+msgid "Blog sidebar"
+msgstr ""
+
+#: ../functions.php:345
+msgid "This sidebar id is: \"sidebar-1\" to be used in sidebar shortcode"
+msgstr ""
+
+#: ../functions.php:354
+msgid "Footer Area One"
+msgstr ""
+
+#: ../functions.php:356
+msgid "This sidebar id is: \"footer-1\" to be used in sidebar shortcode"
+msgstr ""
+
+#: ../functions.php:365
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../functions.php:367
+msgid "This sidebar id is: \"footer-2\" to be used in sidebar shortcode"
+msgstr ""
+
+#: ../functions.php:375
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../functions.php:377
+msgid "This sidebar id is: \"footer-3\" to be used in sidebar shortcode"
+msgstr ""
+
+#: ../functions.php:386
+msgid "Footer Area four"
+msgstr ""
+
+#: ../functions.php:388
+msgid "This sidebar id is: \"footer-4\" to be used in sidebar shortcode"
+msgstr ""
+
+#: ../functions.php:397
+msgid "Footer Area five"
+msgstr ""
+
+#: ../functions.php:399
+msgid "This sidebar id is: \"footer-5\" to be used in sidebar shortcode"
+msgstr ""
+
+#: ../functions.php:408
+msgid "Footer Area Six"
+msgstr ""
+
+#: ../functions.php:410
+msgid "This sidebar id is: \"footer-6\" to be used in sidebar shortcode"
+msgstr ""
+
+#: ../functions.php:427
+msgid "This custom sidebar id is:"
+msgstr ""
+
+#: ../functions.php:449
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:644 ../functions.php:682
+msgid "0 Comments"
+msgstr ""
+
+#: ../functions.php:650 ../functions.php:688
+msgid "By"
+msgstr ""
+
+#: ../functions.php:820 ../inc/posts.php:51 ../inc/posts.php:73
+msgid "Posted on"
+msgstr ""
+
+#: ../functions.php:873 ../inc/posts.php:48 ../inc/posts.php:69
+msgid "Read More..."
+msgstr ""
+
+#: ../functions.php:1415
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:1427
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../header-searchform.php:2 ../searchform.php:2
+msgid "Hit enter to search"
+msgstr ""
+
+#: ../inc/megamenu.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../inc/megamenu.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../inc/megamenu.php:123
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../inc/megamenu.php:141
+msgid "Navigation Label"
+msgstr ""
+
+#: ../inc/megamenu.php:148
+msgid "Title Attribute"
+msgstr ""
+
+#: ../inc/megamenu.php:156
+msgid "Add Icon"
+msgstr ""
+
+#: ../inc/megamenu.php:169
+msgid "Mega Menu?"
+msgstr ""
+
+#: ../inc/megamenu.php:180
+msgid "Menu Title ?"
+msgstr ""
+
+#: ../inc/megamenu.php:186
+msgid "Number of Columns"
+msgstr ""
+
+#: ../inc/megamenu.php:199
+msgid "Column Type"
+msgstr ""
+
+#: ../inc/megamenu.php:210
+msgid "Text Block (Shortcodes allows)"
+msgstr ""
+
+#: ../inc/megamenu.php:218
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../inc/megamenu.php:231
+msgid "Remove"
+msgstr ""
+
+#: ../inc/megamenu.php:232
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/postoptions.php:10
+#, php-format
+msgid "%s - Post Options."
+msgstr ""
+
+#: ../inc/postoptions.php:12
+#, php-format
+msgid "%s - Page Options."
+msgstr ""
+
+#: ../inc/postoptions.php:14
+#, php-format
+msgid "%s - Project Details."
+msgstr ""
+
+#: ../inc/postoptions.php:15
+#, php-format
+msgid "%s - Project Options."
+msgstr ""
+
+#: ../inc/postoptions.php:17
+#, php-format
+msgid "%s - Product Options."
+msgstr ""
+
+#: ../inc/postoptions.php:19
+#, php-format
+msgid "%s - Portfolio Template Options."
+msgstr ""
+
+#: ../inc/postoptions.php:20
+#, php-format
+msgid "%s - Blog Template Options."
+msgstr ""
+
+#: ../inc/postoptions.php:23
+#, php-format
+msgid "%s - General Page Options."
+msgstr ""
+
+#: ../inc/postoptions.php:119 ../inc/postoptions.php:188
+#: ../inc/postoptions.php:378 ../inc/postoptions.php:552
+msgid "Layout"
+msgstr ""
+
+#: ../inc/postoptions.php:140 ../inc/postoptions.php:214
+#: ../inc/postoptions.php:404
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../inc/postoptions.php:221 ../inc/postoptions.php:411
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: ../inc/postoptions.php:232
+msgid "Full Page Scroll"
+msgstr ""
+
+#: ../inc/postoptions.php:243 ../inc/postoptions.php:432
+msgid "Meta Info"
+msgstr ""
+
+#: ../inc/postoptions.php:253 ../inc/postoptions.php:442
+msgid "Author Box"
+msgstr ""
+
+#: ../inc/postoptions.php:263 ../inc/postoptions.php:452
+msgid "Author Name in Meta"
+msgstr ""
+
+#: ../inc/postoptions.php:273 ../inc/postoptions.php:462
+msgid "Post Date And Time in Meta"
+msgstr ""
+
+#: ../inc/postoptions.php:283 ../inc/postoptions.php:472
+msgid "Post Share"
+msgstr ""
+
+#: ../inc/postoptions.php:293 ../inc/postoptions.php:493
+msgid "Post Comments"
+msgstr ""
+
+#: ../inc/postoptions.php:303
+msgid "Before Content"
+msgstr ""
+
+#: ../inc/postoptions.php:309
+msgid "After Content"
+msgstr ""
+
+#: ../inc/postoptions.php:315
+msgid "Shop Products Style"
+msgstr ""
+
+#: ../inc/postoptions.php:422
+msgid "Next And Previous Posts Links"
+msgstr ""
+
+#: ../inc/postoptions.php:483
+msgid "Post Tags Cloud"
+msgstr ""
+
+#: ../inc/postoptions.php:563
+msgid "Next And Previous Projects Links"
+msgstr ""
+
+#: ../inc/postoptions.php:573 ../single-project.php:55
+msgid "Project Overview"
+msgstr ""
+
+#: ../inc/postoptions.php:583
+msgid "Project Overview Phrase"
+msgstr ""
+
+#: ../inc/postoptions.php:588 ../single-project.php:73
+msgid "Project Details"
+msgstr ""
+
+#: ../inc/postoptions.php:598
+msgid "Project Details Phrase"
+msgstr ""
+
+#: ../inc/postoptions.php:603
+msgid "Project Social Like"
+msgstr ""
+
+#: ../inc/postoptions.php:613
+msgid "Other Projects"
+msgstr ""
+
+#: ../inc/postoptions.php:625
+msgid "Project Date"
+msgstr ""
+
+#: ../inc/postoptions.php:640
+msgid "Client Logo"
+msgstr ""
+
+#: ../inc/postoptions.php:645
+msgid "Project Preview URL"
+msgstr ""
+
+#: ../inc/postoptions.php:650
+msgid "Project Preview Text"
+msgstr ""
+
+#: ../inc/postoptions.php:709 ../inc/postoptions.php:794
+msgid "Pagination"
+msgstr ""
+
+#: ../inc/postoptions.php:719
+msgid "Thumnails"
+msgstr ""
+
+#: ../inc/postoptions.php:804
+msgid "Blog Style"
+msgstr ""
+
+#: ../inc/postoptions.php:814
+msgid "Blog Description Lenght"
+msgstr ""
+
+#: ../inc/postoptions.php:868
+msgid "Page Title Holder"
+msgstr ""
+
+#: ../inc/postoptions.php:878
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../inc/postoptions.php:888
+msgid "Page Title"
+msgstr ""
+
+#: ../inc/postoptions.php:898
+msgid "Revolution Slider alias"
+msgstr ""
+
+#: ../inc/postoptions.php:905
+msgid "Arrow moves to the main content"
+msgstr ""
+
+#: ../inc/postoptions.php:914
+msgid "Custom page title background URL"
+msgstr ""
+
+#: ../inc/postoptions.php:922
+msgid "Page banner video background - mp4"
+msgstr ""
+
+#: ../inc/postoptions.php:928
+msgid "Page banner video background - m4v"
+msgstr ""
+
+#: ../inc/postoptions.php:934
+msgid "Page banner video background - webm"
+msgstr ""
+
+#: ../inc/postoptions.php:940
+msgid "Page banner video background - ogv/ogg"
+msgstr ""
+
+#: ../inc/postoptions.php:948
+msgid "Page title banner padding top"
+msgstr ""
+
+#: ../inc/postoptions.php:955
+msgid "Page title banner padding bottom"
+msgstr ""
+
+#: ../inc/postoptions.php:963
+msgid "Page Title Background Repeat"
+msgstr ""
+
+#: ../inc/postoptions.php:975
+msgid "Make Page Title Background A Cover"
+msgstr ""
+
+#: ../inc/postoptions.php:985
+msgid "Page Title Background Vertical Position"
+msgstr ""
+
+#: ../inc/postoptions.php:996
+msgid "Page Title Background Horizontal Position"
+msgstr ""
+
+#: ../inc/postoptions.php:1007
+msgid "Page Title Background Overlay"
+msgstr ""
+
+#: ../inc/postoptions.php:1017
+msgid "Page Title Style"
+msgstr ""
+
+#: ../inc/postoptions.php:1027
+msgid "Page Title Background Overlay Color"
+msgstr ""
+
+#: ../inc/postoptions.php:1034
+msgid "Page Title Text Color"
+msgstr ""
+
+#: ../inc/postoptions.php:1044
+msgid "Slider Wrapper Width"
+msgstr ""
+
+#: ../inc/postoptions.php:1054
+msgid "Header style"
+msgstr ""
+
+#: ../inc/postoptions.php:1068
+msgid "Header Wrapper Width"
+msgstr ""
+
+#: ../inc/postoptions.php:1078
+msgid "Main menu style"
+msgstr ""
+
+#: ../inc/postoptions.php:1089
+msgid "Header items position"
+msgstr ""
+
+#: ../inc/postoptions.php:1099
+msgid "Sticky header"
+msgstr ""
+
+#: ../inc/postoptions.php:1109
+msgid "Disable Sticky Header On Mobile"
+msgstr ""
+
+#: ../inc/postoptions.php:1119
+msgid "Disable Sticky Header On Tablet"
+msgstr ""
+
+#: ../inc/postoptions.php:1129
+msgid "Top Header Skin"
+msgstr ""
+
+#: ../inc/postoptions.php:1139
+msgid "Dark Header"
+msgstr ""
+
+#: ../inc/postoptions.php:1149
+msgid "Transparent Header"
+msgstr ""
+
+#: ../inc/postoptions.php:1159
+msgid "Cart in header"
+msgstr ""
+
+#: ../inc/postoptions.php:1179
+msgid "Search icon in header"
+msgstr ""
+
+#: ../inc/postoptions.php:1189
+msgid "Header Search icon Style"
+msgstr ""
+
+#: ../inc/postoptions.php:1199
+msgid "Social icons in header"
+msgstr ""
+
+#: ../inc/postoptions.php:1209
+msgid "Contact info in header"
+msgstr ""
+
+#: ../inc/postoptions.php:1219
+msgid "Site Footer"
+msgstr ""
+
+#: ../inc/postoptions.php:1229
+msgid "Site First Footer"
+msgstr ""
+
+#: ../inc/postoptions.php:1239
+msgid "Site Second Footer"
+msgstr ""
+
+#: ../inc/postoptions.php:1251
+msgid "Logo"
+msgstr ""
+
+#: ../inc/postoptions.php:1257
+msgid "Retina Logo"
+msgstr ""
+
+#: ../inc/postoptions.php:1263
+msgid "Use Default Sticky Logo From Theme Options"
+msgstr ""
+
+#: ../inc/postoptions.php:1273
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: ../inc/postoptions.php:1279
+msgid "Sticky Header Retina Logo"
+msgstr ""
+
+#: ../inc/postoptions.php:1285
+msgid "Logo Width"
+msgstr ""
+
+#: ../inc/postoptions.php:1291
+msgid "Logo Height"
+msgstr ""
+
+#: ../inc/postoptions.php:1297
+msgid "Sticky Logo Width"
+msgstr ""
+
+#: ../inc/postoptions.php:1303
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: ../inc/postoptions.php:1309
+msgid "Menu Items Padding Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1315
+msgid "Menu Items Padding Bottom"
+msgstr ""
+
+#: ../inc/postoptions.php:1321
+msgid "Sticky Menu Items Padding Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1327
+msgid "Sticky Menu Items Padding Bottom"
+msgstr ""
+
+#: ../inc/postoptions.php:1333
+msgid "Header Padding Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1339
+msgid "Header Padding Bottom"
+msgstr ""
+
+#: ../inc/postoptions.php:1345
+msgid "Sticky Header Padding Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1352
+msgid "Sticky Header Padding Bottom"
+msgstr ""
+
+#: ../inc/postoptions.php:1358
+msgid "Menu Margin Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1364
+msgid "Sticky Menu Margin Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1370
+msgid "Logo Margin Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1376
+msgid "Sticky Logo Margin Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1382
+msgid "Header Button Margin Top"
+msgstr ""
+
+#: ../inc/postoptions.php:1388
+msgid "Sticky Header Button Margin Top"
+msgstr ""
+
+#: ../inc/posttypes/portfolio.php:24
+msgid "Show All"
+msgstr ""
+
+#: ../inc/shortcodes/shortcodes.php:348 ../vc_templates/vc_row.php:182
+msgid "Video playback is not supported by your browser"
+msgstr ""
+
+#: ../inc/shortcodes/shortcodes.php:2338
+msgid ""
+"Google map requires Google API to work, if you are the admin of this site "
+"please go to "
+msgstr ""
+
+#: ../inc/shortcodes/shortcodes.php:2339
+msgid "Control Panel > Theme Options > Social Settings"
+msgstr ""
+
+#: ../inc/shortcodes/shortcodes.php:2340
+msgid ""
+" and add you Google Map Javascript API, you will find more details about "
+"creating it there."
+msgstr ""
+
+#: ../inc/widgets/postlist.php:51
+msgid "Post List"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:60
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:63
+msgid "Show"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:65
+msgid "Hide"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:69 ../inc/widgets/tweets.php:65
+msgid "Number Of Posts"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:73
+msgid "Post Order"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:76 ../single-project.php:80
+msgid "Date"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:78
+msgid "Comment Count"
+msgstr ""
+
+#: ../inc/widgets/postlist.php:80
+msgid "Random"
+msgstr ""
+
+#: ../inc/widgets/tweets.php:52
+msgid "Tweets"
+msgstr ""
+
+#: ../inc/widgets/tweets.php:61
+msgid "Username"
+msgstr ""
+
+#: ../product-searchform.php:3
+msgid "Search for products"
+msgstr ""
+
+#: ../search.php:8
+msgid "Search Results for: "
+msgstr ""
+
+#: ../search.php:91 ../tag.php:91
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../single-project.php:127
+msgid "Live Preview"
+msgstr ""
+
+#: ../single-project.php:164
+msgid "Next Project"
+msgstr ""
+
+#: ../single-project.php:168
+msgid "Previous Project"
+msgstr ""
+
+#: ../tag.php:8
+msgid "Tag Archives: "
+msgstr ""

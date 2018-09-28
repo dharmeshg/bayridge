@@ -1,0 +1,176 @@
+[24-Mar-2018 08:59:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[25-Mar-2018 09:12:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[26-Mar-2018 02:29:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[08-Apr-2018 02:04:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[09-Apr-2018 05:58:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[11-Apr-2018 01:28:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[12-Apr-2018 11:12:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[06-May-2018 15:43:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[06-May-2018 16:41:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[07-May-2018 01:48:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[07-May-2018 10:17:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[18-Jun-2018 11:03:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[04-Jul-2018 05:04:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[04-Jul-2018 05:04:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[04-Jul-2018 05:04:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[04-Jul-2018 05:04:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[14-Jul-2018 01:57:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[18-Jul-2018 03:51:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[18-Jul-2018 03:51:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[18-Jul-2018 03:51:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[18-Jul-2018 03:51:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[25-Jul-2018 16:44:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[25-Jul-2018 16:44:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/sidebar.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/sidebar.php on line 1
+[25-Jul-2018 16:44:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[29-Jul-2018 06:57:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[29-Jul-2018 06:57:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[29-Jul-2018 06:57:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[29-Jul-2018 06:57:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[05-Aug-2018 08:28:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[05-Aug-2018 08:28:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[05-Aug-2018 08:28:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[05-Aug-2018 08:28:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[10-Aug-2018 11:32:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[10-Aug-2018 11:32:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[10-Aug-2018 11:32:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[10-Aug-2018 11:32:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[29-Aug-2018 18:52:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[29-Aug-2018 18:52:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[29-Aug-2018 18:52:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[29-Aug-2018 18:52:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2
+[12-Sep-2018 17:47:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/header.php on line 3
+[12-Sep-2018 17:47:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/index.php on line 2
+[12-Sep-2018 17:47:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/404.php on line 2
+[12-Sep-2018 17:47:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bayridgecounsell/public_html/wp-content/themes/sanabel/archive.php on line 2

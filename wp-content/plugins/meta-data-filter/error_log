@@ -1,0 +1,35 @@
+[28-Aug-2017 22:11:34 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[28-Aug-2017 22:11:34 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[28-Aug-2017 22:11:34 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[29-Aug-2017 14:39:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Aug-2017 14:39:51 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[29-Aug-2017 14:39:51 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[03-Sep-2017 05:31:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Sep-2017 05:31:43 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[03-Sep-2017 05:31:43 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[11-Sep-2017 05:51:50 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[11-Sep-2017 05:51:50 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[11-Sep-2017 05:51:50 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[19-Sep-2017 23:25:57 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Sep-2017 23:25:57 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[19-Sep-2017 23:25:57 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[24-Oct-2017 06:40:05 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2017 06:40:05 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[24-Oct-2017 06:40:06 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[24-Oct-2017 09:12:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Oct-2017 09:12:42 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[24-Oct-2017 09:12:42 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[27-Oct-2017 06:20:53 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[27-Oct-2017 06:20:54 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[27-Oct-2017 06:20:54 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[02-Nov-2017 22:39:34 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Nov-2017 22:39:34 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[02-Nov-2017 22:39:34 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[14-Nov-2017 18:53:13 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Nov-2017 18:53:13 America/Chicago] PHP Warning:  Module 'mbstring' already loaded in Unknown on line 0
+[14-Nov-2017 18:53:13 America/Chicago] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[31-Dec-2017 18:04:03 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[31-Dec-2017 18:04:04 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[31-Dec-2017 18:04:05 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[03-Jan-2018 04:54:56 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
+[01-Mar-2018 06:02:01 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/bayridgecounsell/public_html/wp-content/plugins/meta-data-filter/index.php on line 10
